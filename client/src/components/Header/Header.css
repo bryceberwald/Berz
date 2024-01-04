@@ -1,24 +1,28 @@
 /* Header.css */
+.header {
+  background-color: hsl(249, 91%, 29%);
+  color: #fff;
+  font-family: 'Pacifico', cursive;  
+  text-align: center;
+  text-align: center;
+  width: 100vw;
+  padding: 10px 0;
+}
 
 .header-container {
-    text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
 }
-  
-.header-container .header-h1 {
-    font-size: 1.75em;
-    color: #0e1661;
-    font-family: Rubik Lines, sans-serif;
+
+.header-title {
+  font-size: 2rem;
+  margin-bottom: 10px;
 }
-  
-.header-container .header-a {
-    color: white;
-    font-size: 1.25em;
-    text-decoration: none;
-    font-weight: bold;
-}
-  
-.header-container .header-a:hover {
-    text-decoration: underline;
-    color: rgb(156, 161, 222);
-    font-size: 1.30em;
+
+.header-banner {
+  width: 20%;
+  max-height: 100px; /* Adjust the max height as needed */
+  object-fit:fill;
+  border: #fff 2px solid;
+  border-radius: 10px;;
 }

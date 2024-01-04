@@ -1,11 +1,17 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
+
+// Header.js
+import React from 'react';
 import './Header.css';
 
-function Header() {
+const Header = () => {
   return (
-    <div className="header-container">
-      <h1 className='header-h1'>Website is currently under construction....</h1>
-      <a className="header-a" href="https://www.berz.io/">https://www.berz.io/</a>
-    </div>
+    <header className="header">
+      <div className="header-container">
+        <h1 className="header-title">Berz</h1>
+        <img src="image_04.jpeg" alt="Banner Image" className="header-banner" />
+      </div>
+    </header>
   );
 };
 
