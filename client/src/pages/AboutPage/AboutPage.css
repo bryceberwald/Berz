@@ -9,6 +9,14 @@
     width: 100%;
 }
 
+.top-about-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
 .about-container .top-about-container {
     text-align: center;
     margin-bottom: 20px;
@@ -20,7 +28,7 @@
 .about-container .top-about-container h1 {
     color: #a7abae;
     font-size: 2em;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: monospace;
     font-variant: small-caps;
 }
 
@@ -43,8 +51,7 @@
 .about-container .main-content h2 {
     color: #308c98;
     font-size: 1.5em;
-    font-family: fantasy;
-    padding: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    padding: 5px;
 }
 
 .about-container .main-content p {

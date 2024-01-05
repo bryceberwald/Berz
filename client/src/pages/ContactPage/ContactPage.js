@@ -18,15 +18,14 @@ const ContactPage = () => {
 
       <section>
         <h2>Get in Touch</h2>
-        <p>
-          <i>Send an email to me, and I'll get back to you as soon as possible.</i>
-        </p>
+        <span>Send an email to me, and I'll get back to you as soon as possible.</span>
+        <br></br>
         <br></br>
         <label>Name: </label>
-        <text>Bryce Berwald / Berz</text><br></br>
+        <span className='name-span'>Bryce Berwald / Berz</span><br></br>
 
         <label>Email: </label>
-        <text>support@berz.io</text>
+        <span className='name-span'>&nbsp;support@berz.io</span>
 
         {/* Add your contact form or details here */}
       </section>
