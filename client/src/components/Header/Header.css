@@ -8,8 +8,7 @@
   text-align: center;
   width: 80%;
   padding: 20px 0; /* Increased padding for more emphasis */
-  max-width: 80%;
-  margin: 0 auto;
+  margin: auto;
   box-shadow: 0 4px 6px rgba(169, 152, 225, 0.872); /* Added box shadow for a subtle lift */
 }
 
