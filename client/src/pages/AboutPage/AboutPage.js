@@ -17,11 +17,6 @@ const AboutPage = () => {
 
         <div className='main-content'>
           <section>
-          
-              <h1>Bryce Berwald also known as "Berz" is a Software Engineer</h1> 
-              <br></br>
-              
-              <br></br>
               <h2>Brief Introduction</h2>
 
               <p>My name is Bryce Berwald, and you may know me by the nickname "Berz". I am on an exhilarating journey into the realms of software engineering and computer science. My passion lies in the creation of innovative and impactful technologies, spanning web applications, desktop applications, games, and a diverse array of software solutions.</p>
