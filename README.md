@@ -1,3 +1,3 @@
 # Berz-Website
 
-***Needs to be completed...***
+Needs to be completed...
