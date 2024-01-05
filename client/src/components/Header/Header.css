@@ -1,28 +1,27 @@
 /* Header.css */
-.header {
+.header-container {
   background-color: hsl(249, 91%, 29%);
-  color: #fff;
+  border-radius: 25px;
+  color: #c2c9d8;
   font-family: 'Pacifico', cursive;  
   text-align: center;
-  text-align: center;
   width: 100vw;
-  padding: 10px 0;
-}
-
-.header-container {
-  max-width: 1200px;
+  padding: 20px 0; /* Increased padding for more emphasis */
+  max-width: 80%;
   margin: 0 auto;
+  box-shadow: 0 4px 6px rgba(169, 152, 225, 0.872); /* Added box shadow for a subtle lift */
 }
 
 .header-title {
-  font-size: 2rem;
+  font-size: 2.5rem; /* Slightly increased font size for emphasis */
   margin-bottom: 10px;
 }
 
 .header-banner {
   width: 20%;
   max-height: 100px; /* Adjust the max height as needed */
-  object-fit:fill;
+  object-fit: cover; /* Changed object-fit property to 'cover' for better image fitting */
   border: #fff 2px solid;
-  border-radius: 10px;;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Added box shadow to the image */
 }

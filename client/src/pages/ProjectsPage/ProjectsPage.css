@@ -1,0 +1,9 @@
+.projects-container h1 {
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    color: #a7abae;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+}

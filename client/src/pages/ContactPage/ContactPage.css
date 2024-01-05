@@ -1,0 +1,69 @@
+/* .contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(22, 32, 32);
+} */
+
+.contact-container{
+    width: 80%;
+    margin-left: 10%;
+  }
+
+.contact-container .top-contact-container {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(2, 1, 16);
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(15, 6, 30, 0.797);
+}
+
+.contact-container .top-contact-container h1 {
+    color: #a7abae;
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+}
+
+.contact-container .top-contact-container p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: hsl(210, 10%, 88%);
+    line-height: 1.25;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.contact-container section {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.contact-container section label {
+    font-size: 1.25em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #000204;
+}
+
+.contact-container section text {
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #44678b;
+}
+
+.contact-container section h2 {
+    color: #308c98;
+    font-size: 1.5em;
+    font-family: fantasy;
+    padding: 5px;
+}
+
+.contact-container section p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 0.5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
