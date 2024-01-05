@@ -12,6 +12,10 @@
   box-shadow: 0 4px 6px rgba(169, 152, 225, 0.872); /* Added box shadow for a subtle lift */
 }
 
+.header-container img {
+  width: 50%;
+}
+
 .header-title {
   font-size: 2.5rem; /* Slightly increased font size for emphasis */
   margin-bottom: 10px;

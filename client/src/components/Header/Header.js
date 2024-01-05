@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header className="header-container">
         <h1 className="header-h1">Berz</h1>
-        <img className="header-banner-img" src="image_04.jpeg" alt="Banner Image" />
+        <img src="image_04.jpeg" alt="Berz Personal Website Image" />
     </header>
   );
 };
