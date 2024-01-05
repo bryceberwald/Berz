@@ -8,7 +8,7 @@ const ProjectsPage = () => {
     <div className='projects-container'>
       <Navigation />
       <Header />
-      <h1>Welcome to the Projects Page!</h1>
+      <h1>Projects Page Coming Soon...</h1>
     </div>
   );
 };

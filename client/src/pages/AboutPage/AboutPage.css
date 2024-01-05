@@ -1,9 +1,4 @@
-/* .about-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: rgb(22, 32, 32);
-} */
+/* AboutPage.css */
 
 .about-container{
     width: 100%;
@@ -30,14 +25,52 @@
     font-size: 2em;
     font-family: monospace;
     font-variant: small-caps;
+
 }
 
-.about-container .main-content {
+.about-container section {
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
+}
+    
+.about-container section h2 {
+    color: #308c98;
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  padding: 5px;
+}
+    
+.about-container section p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    margin-top: 10px;
+    padding: 10px;
+}
+    
+.about-container section p::first-letter {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.about-container .main-content {
+    padding: 20px;
+    background-color: #394773;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: 75%;
+    margin-left: 11.125%;
+}
+.about-container .main-content  section section{
+    padding: 20px;
+    background-color: #bdc0cf;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: 75%;
+    margin-left: 11.125%;
 }
 
 .about-container .main-content h1 {
@@ -51,7 +84,8 @@
 .about-container .main-content h2 {
     color: #308c98;
     font-size: 1.5em;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    padding: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
 }
 
 .about-container .main-content p {

@@ -1,11 +1,12 @@
 /* Header.css */
+
 .header-container {
-  background-color: hsl(249, 91%, 29%);
+  background-color: #394773;
   border-radius: 25px;
   color: #c2c9d8;
   font-family: 'Pacifico', cursive;  
   text-align: center;
-  width: 100vw;
+  width: 80%;
   padding: 20px 0; /* Increased padding for more emphasis */
   max-width: 80%;
   margin: 0 auto;

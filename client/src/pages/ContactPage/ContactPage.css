@@ -2,6 +2,15 @@
     width: 100%;
 }
 
+.contact-container .main-content{
+    padding: 20px;
+    background-color: #394773;    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: 75%;
+    margin-left: 11.125%;
+}
+
 .top-contact-container {
     padding: 20px;
     background-color: #fff;

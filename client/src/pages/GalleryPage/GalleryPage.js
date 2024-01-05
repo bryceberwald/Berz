@@ -8,7 +8,7 @@ const GalleryPage = () => {
     <div className='gallery-container'>
       <Navigation />
       <Header />
-      <h1>Welcome to the Gallery Page!</h1>
+      <h1>Gallery Page Coming Soon...</h1>
     </div>
   );
 };

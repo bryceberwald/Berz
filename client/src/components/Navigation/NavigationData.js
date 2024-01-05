@@ -1,3 +1,4 @@
+// NavigationData.js
 export const NavigationData = [
   {
     title: "Home",

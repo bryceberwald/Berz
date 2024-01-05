@@ -1,76 +1,78 @@
+/* Navigation.css */
+
 .navigation {
-    background-color: #ffffff;
-    height: 50px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    text-align: center;
-    position: relative;
-  }
+  background-color: #ffffff;
+  height: 50px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+.menu-bars {
+  margin-left: 2rem;
+  font-size: 2rem;
+  background: none;
+  color: #000;
+}
+
+.navigation-menu {
+  background-color: #ffffff;
+  width: 350px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  transition: 850ms;
+}
+
+.navigation-menu.active {
+  left: 0;
+  transition: 450ms;
+}
+
+.navigation-text {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 8px 0px 8px 16px;
+  list-style: none;
+  height: 60px;
+}
+
+.navigation-text a {
+  text-decoration: none;
+  color: #151414;
+  font-size: 18px;
+  width: 95%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  border-radius: 4px;
+}
+
+.navigation-text a:hover {
+  background-color: #000000;
+  color: #fff;
+}
   
-  .menu-bars {
-    margin-left: 2rem;
-    font-size: 2rem;
-    background: none;
-    color: #000;
-  }
+.navigation-menu-items {
+  width: 100%;
+}
   
-  .navigation-menu {
-    background-color: #ffffff;
-    width: 350px;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    position: fixed;
-    top: 0;
-    left: -100%;
-    transition: 850ms;
-  }
+.navigation-toggle {
+  background-color: #ffffff;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
   
-  .navigation-menu.active {
-    left: 0;
-    transition: 450ms;
-  }
-  
-  .navigation-text {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    padding: 8px 0px 8px 16px;
-    list-style: none;
-    height: 60px;
-  }
-  
-  .navigation-text a {
-    text-decoration: none;
-    color: #151414;
-    font-size: 18px;
-    width: 95%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    padding: 0 16px;
-    border-radius: 4px;
-  }
-  
-  .navigation-text a:hover {
-    background-color: #000000;
-    color: #fff;
-  }
-  
-  .navigation-menu-items {
-    width: 100%;
-  }
-  
-  .navigation-toggle {
-    background-color: #ffffff;
-    width: 100%;
-    height: 80px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-  }
-  
-  span {
-    margin-left: 16px;
-  }
+span {
+  margin-left: 16px;
+}
