@@ -6,4 +6,22 @@
     text-align: center;
     margin: 0 auto;
     padding: 20px;
-}
+  }
+  
+  .Games-wrapper {
+    display: flex;
+    justify-content: space-around; /* Adjusted to space-around for equal spacing */
+    width: 100%;
+    flex-wrap: wrap; /* Allow items to wrap to the next row */
+  }
+  
+  .Game {
+    width: calc(33.33% - 10px); /* Adjust the width as needed */
+    margin-bottom: 20px; /* Adjust the margin-bottom for spacing between rows */
+    /* Add any additional styling as needed */
+  }
+  
+  .GameLabel {
+    text-align: center; /* Center the label */
+  }
+  
