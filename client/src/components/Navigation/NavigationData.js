@@ -25,4 +25,9 @@ export const NavigationData = [
     path: "/projects",
     cName: "navigation-text",
   },
+  {
+    title: "Games",
+    path: "/games",
+    cName: "navigation-text",
+  },
 ];
