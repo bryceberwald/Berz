@@ -16,7 +16,7 @@ const GamesPage = () => {
     <div className='Games-container'>
       <Navigation />
       <Header />
-      <h1>Games Page</h1>
+      <h1>Games Page Coming Soon...</h1>
       <div className='Games-wrapper'>
         {games.map((game, index) => (
           <div key={index} className='Game'>
