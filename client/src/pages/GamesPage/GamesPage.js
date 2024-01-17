@@ -4,19 +4,11 @@ import Header from '../../components/Header/Header';
 import './GamesPage.css';
 
 const GamesPage = () => {
+  
   // Assuming games is an array of Phaser 3 games
   const games = [
     // Game components go here
     // For example: <PhaserGame key={1} />
-    <Header key={1} />,
-    <Header key={2} />,
-    <Header key={3} />,
-    <Header key={4} />,
-    <Header key={5} />,
-    <Header key={6} />,
-    <Header key={7} />,
-    <Header key={8} />,
-    <Header key={9} />,
     // Add as many games as needed
   ];
 
