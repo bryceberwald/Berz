@@ -61,9 +61,9 @@ export default function BasicTabs() {
       <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%' }}>
         <Box sx={{ borderBottom: 1, borderColor: 'divider', width: '70%' }}>
           <Tabs value={value} onChange={handleChange} aria-label="basic tabs example" centered>
-            <Tab label="Browser-based games" {...a11yProps(0)} sx={{ fontSize: '0.7rem', color: '#ffffff' }} />
-            <Tab label="Downloadable games" {...a11yProps(1)} sx={{ fontSize: '0.7rem', color: '#ffffff' }} />
-            <Tab label="Extra Information" {...a11yProps(2)} sx={{ fontSize: '0.7rem', color: '#ffffff' }} />
+            <Tab label="Browser-based games" {...a11yProps(0)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
+            <Tab label="Downloadable games" {...a11yProps(1)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
+            <Tab label="Extra Information" {...a11yProps(2)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
           </Tabs>
         </Box>
         <CustomTabPanel value={value} index={0}>

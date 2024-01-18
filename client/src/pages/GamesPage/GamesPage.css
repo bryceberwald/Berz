@@ -51,12 +51,7 @@
 .MuiTabs-root {
   width: 100%;
   margin: 0 auto;
-  background-color: #0b6ab2;
-}
-
-.MuiTab-textColorPrimary.Mui-selected {
-  color: #0b6ab2;
-  background-color: #fff;
+  background-color: #6dafe1;
 }
 
 .MuiTab-root {
@@ -78,6 +73,7 @@
 .games-tab-1  h1{
   color: #ffffff;
   font-family: fantasy;
+  font-size: 1em;
   text-align: center;
   padding: 3%;
 }
@@ -91,6 +87,7 @@
 .games-tab-2  h1{
   color: #ffffff;
   font-family: fantasy;
+  font-size: 1em;
   text-align: center;
   padding: 3%;
 }
@@ -104,6 +101,7 @@
 .games-tab-3  h1{
   color: #ffffff;
   font-family: fantasy;
+  font-size: 1em;
   text-align: center;
   padding: 3%;
 }
