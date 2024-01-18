@@ -13,11 +13,15 @@ const GamesPage = () => {
   ];
 
   return (
-    <div className='Games-container'>
+    <div className='games-container'>
       <Navigation />
       <Header />
-      <h1>Games Page Coming Soon...</h1>
-      <div className='Games-wrapper'>
+      <br></br>
+      <div className="top-games-container">
+        <h1>Games Page</h1>
+      </div>
+      <h3>Currently under construction...</h3>
+      <div className='games-wrapper'>
         {games.map((game, index) => (
           <div key={index} className='Game'>
             <h4 className='GameLabel'>Game #{index + 1}</h4>
