@@ -61,23 +61,23 @@ export default function BasicTabs() {
       <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%' }}>
         <Box sx={{ borderBottom: 1, borderColor: 'divider', width: '70%' }}>
           <Tabs value={value} onChange={handleChange} aria-label="basic tabs example" centered>
-            <Tab label="Browser-based games" {...a11yProps(0)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
-            <Tab label="Downloadable games" {...a11yProps(1)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
-            <Tab label="Extra Information" {...a11yProps(2)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
+            <Tab label="Browser-based" {...a11yProps(0)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
+            <Tab label="Downloads" {...a11yProps(1)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
+            <Tab label="Information" {...a11yProps(2)} sx={{ fontSize: '0.5em', color: '#ffffff' }} />
           </Tabs>
         </Box>
         <CustomTabPanel value={value} index={0}>
-          <div className='games-tab-1'>
+          <div className='games-tab-panel-content'>
             <h1>Browser-based Games</h1>
           </div>
         </CustomTabPanel>
         <CustomTabPanel value={value} index={1}>
-          <div className='games-tab-2'>
+          <div className='games-tab-panel-content'>
             <h1>Downloadable Games</h1>
           </div>
         </CustomTabPanel>
         <CustomTabPanel value={value} index={2}>
-          <div className='games-tab-3'>
+          <div className='games-tab-panel-content'>
             <h1>Extra Information</h1>
           </div>
         </CustomTabPanel>
