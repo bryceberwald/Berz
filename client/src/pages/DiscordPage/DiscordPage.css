@@ -4,18 +4,17 @@
 
 .discord-container .main-content{
     padding: 20px;
-    background-color: #394773;    border-radius: 8px;
+    background-color: #3e4459;    border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
     width: 80%;
     margin: auto;
 }
 
-.discord-container .main-content h2 {
-    text-align: center;
-    font-family: cursive;
-    color: rgb(170, 164, 164);
-    padding: 50px;
+.discord-container .main-content img {
+    margin-left: 40%;
+    width: 20%;
+    height: 100%;
 }
 
 .top-discord-container {

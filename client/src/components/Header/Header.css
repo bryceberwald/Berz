@@ -15,17 +15,3 @@
 .header-container img {
   width: 50%;
 }
-
-.header-title {
-  font-size: 2.5rem; /* Slightly increased font size for emphasis */
-  margin-bottom: 10px;
-}
-
-.header-banner {
-  width: 20%;
-  max-height: 100px; /* Adjust the max height as needed */
-  object-fit: cover; /* Changed object-fit property to 'cover' for better image fitting */
-  border: #fff 2px solid;
-  border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Added box shadow to the image */
-}
