@@ -45,3 +45,65 @@
   text-align: center;
   color: aliceblue;
 }
+
+/* Styling for the tabs */
+
+.MuiTabs-root {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #0b6ab2;
+}
+
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #0b6ab2;
+  background-color: #fff;
+}
+
+.MuiTab-root {
+  min-width: auto;
+}
+
+.MuiTabs-indicator {
+  background-color: #527087;
+}
+
+/* Styling for the tab panels */
+
+.games-tab-1 {
+  width: 70vw;
+  height: 500px;
+  background-color: #0b6ab2;
+}
+
+.games-tab-1  h1{
+  color: #ffffff;
+  font-family: fantasy;
+  text-align: center;
+  padding: 3%;
+}
+
+.games-tab-2 {
+  width: 70vw;
+  height: 500px;
+  background-color: #0b6ab2;
+}
+
+.games-tab-2  h1{
+  color: #ffffff;
+  font-family: fantasy;
+  text-align: center;
+  padding: 3%;
+}
+
+.games-tab-3 {
+  width: 70vw;
+  height: 500px;
+  background-color: #0b6ab2;
+}
+
+.games-tab-3  h1{
+  color: #ffffff;
+  font-family: fantasy;
+  text-align: center;
+  padding: 3%;
+}
