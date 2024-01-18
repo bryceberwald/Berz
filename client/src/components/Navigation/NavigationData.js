@@ -16,11 +16,6 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "Discord",
-    path: "/discord",
-    cName: "navigation-text",
-  },
-  {
     title: "Games",
     path: "/games",
     cName: "navigation-text",

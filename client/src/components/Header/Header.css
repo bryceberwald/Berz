@@ -12,6 +12,14 @@
   box-shadow: 0 4px 6px rgba(169, 152, 225, 0.872); /* Added box shadow for a subtle lift */
 }
 
+.header-container .discord-image {
+  width: 120px; /* Adjusted width for a better size */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 30%; /* Make it a circle */
+  margin-top: 10px; /* Added margin for separation */
+  background-color: #dfe2e5; /* Added background color */
+}
+
 .header-container img {
   width: 50%;
 }

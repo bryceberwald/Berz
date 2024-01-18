@@ -20,7 +20,11 @@ const GamesPage = () => {
       <div className="top-games-container">
         <h1>Games Page</h1>
       </div>
-      <h3>Currently under construction...</h3>
+      <div className='main-content'>
+          <section>
+            <h3>Currently under construction...</h3>
+          </section>
+          </div>
       <div className='games-wrapper'>
         {games.map((game, index) => (
           <div key={index} className='Game'>
