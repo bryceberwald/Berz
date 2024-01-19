@@ -29,7 +29,6 @@ const TabComponent = () => {
         {activeTab === 'tab1' && (
           <div>
             <h2>Game Library</h2>
-            {/* <p>All games will be displayed here...</p> */}
             <div className='game-container'></div>
             <div className='game-container'></div>
             <div className='game-container'></div>

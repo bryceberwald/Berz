@@ -5,7 +5,7 @@
     margin: 20px auto;
 }
   
-.tab-buttons {
+.tab-container .tab-buttons {
     display: flex;
     justify-content: space-around;
     background-color: #eee;
@@ -15,7 +15,7 @@
     border-radius: 4px;
 }
   
-button {
+.tab-container .tab-buttons button {
     padding: 8px;
     cursor: pointer;
     border: none;
@@ -27,16 +27,22 @@ button {
     border: 1px solid #ddd;
 }
 
-button.active {
+.tab-container .tab-buttons button.active {
     background-color: #4d5a84;
 }
 
-.tab-content {
+.tab-container .tab-content {
     padding: 15px;
     border: 1px solid #ddd;
     margin-top: 5px;
     border-radius: 4px;
     background-color: #fff;
+}
+
+.tab-container .tab-content h2, p {
+    font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    padding: 5px;
 }
 
 .tab-container .tab-content .game-container {
@@ -48,14 +54,4 @@ button.active {
     background-color: #7a7b89;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: inline-block;
-}
-
-.tab-container .tab-content h2, p {
-    font-family: "Josefin Sans", sans-serif;
-    text-align: center;
-    padding: 5px;
-}
-
-.tab-container .tab-content p {
-    font-family: "Josefin Sans", sans-serif;
 }
