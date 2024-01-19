@@ -94,7 +94,9 @@ N/A
 
 ## Authors
 
-***Needs to be completed...***
+1. Berz / Bryce Berwald - Lead Developer
+2. name - project title
+3. name - project title
 
 ## License
 
@@ -108,3 +110,5 @@ N/A
 * Item 2
 * Item 3
 * etc
+
+**END OF READ ME FILE.**
