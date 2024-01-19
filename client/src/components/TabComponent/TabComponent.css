@@ -10,7 +10,7 @@
     justify-content: space-around;
     background-color: #eee;
     padding: 10px;
-    background-color: rgb(65, 64, 171);
+    background-color: #394773;
     border: 1px solid #ddd;
     border-radius: 4px;
 }
@@ -23,12 +23,12 @@ button {
     font-size: 16px;
     border-radius: 4px;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Grape Nuts", cursive;
     border: 1px solid #ddd;
 }
 
 button.active {
-    background-color: #0e8a18;
+    background-color: #4d5a84;
 }
 
 .tab-content {
@@ -37,5 +37,25 @@ button.active {
     margin-top: 5px;
     border-radius: 4px;
     background-color: #fff;
-    font-family: fantasy;
+}
+
+.tab-container .tab-content .game-container {
+    width: 30%;
+    margin: 15px;
+    height: 250px;
+    border-radius: 5px;
+    border: 2px solid #000000;
+    background-color: #7a7b89;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+.tab-container .tab-content h2, p {
+    font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+.tab-container .tab-content p {
+    font-family: "Josefin Sans", sans-serif;
 }

@@ -28,14 +28,20 @@ const TabComponent = () => {
       <div className="tab-content">
         {activeTab === 'tab1' && (
           <div>
-            <h2>Game Library Section</h2>
-            <p>All games will be displayed here...</p>
+            <h2>Game Library</h2>
+            {/* <p>All games will be displayed here...</p> */}
+            <div className='game-container'></div>
+            <div className='game-container'></div>
+            <div className='game-container'></div>
+            <div className='game-container'></div>
+            <div className='game-container'></div>
+            <div className='game-container'></div>
           </div>
         )}
 
         {activeTab === 'tab2' && (
           <div>
-            <h2>Dashboard Section</h2>
+            <h2>Dashboard</h2>
             <p>This is the area for the user to interact with...</p>
           </div>
         )}
