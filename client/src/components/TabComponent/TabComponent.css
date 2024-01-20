@@ -46,9 +46,10 @@
 }
 
 .tab-container .tab-content .game-container {
-    width: 30%;
+    width: 250px;
     margin: 15px;
-    height: 175px;
+    min-width: 250px;
+    height: 250px;
     border-radius: 5px;
     border: 2px solid #000000;
     background-color: #7a7b89;
