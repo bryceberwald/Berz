@@ -40,9 +40,10 @@
 }
 
 .tab-container .tab-content .tab-content-1 {
-    margin-left: 200px;
+    margin-left: 150px;
+    margin-top: -200px;
+    padding: 200px;
 }
-
 .tab-container .tab-content h2, p {
     font-family: "Josefin Sans", sans-serif;
     text-align: center;
