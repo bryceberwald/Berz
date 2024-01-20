@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './TabComponent.css';
+import GamesNavBar from '../GamesNavBar/GamesNavBar';
 
 const TabComponent = () => {
   const [activeTab, setActiveTab] = useState('tab1');
@@ -27,19 +28,20 @@ const TabComponent = () => {
 
       <div className="tab-content">
         {activeTab === 'tab1' && (
-          <div>
+          <div className='tab-content-1'>
             <h2>Game Library</h2>
-            <div className='game-container'></div>
-            <div className='game-container'></div>
-            <div className='game-container'></div>
-            <div className='game-container'></div>
-            <div className='game-container'></div>
-            <div className='game-container'></div>
+            
+            <GamesNavBar />
+
+            {Array.from({ length: 500 }).map((_, index) => (
+              <div key={index} className='game-container'></div>
+            ))}
+
           </div>
         )}
 
         {activeTab === 'tab2' && (
-          <div>
+          <div className='tab-content-2'>
             <h2>Dashboard</h2>
             <p>This is the area for the user to interact with...</p>
           </div>
