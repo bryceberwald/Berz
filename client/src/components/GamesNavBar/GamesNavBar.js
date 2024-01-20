@@ -16,7 +16,7 @@ const GamesNavBar = () => {
 
   return (
     <div className="games-navbar">
-      <h2>Categories</h2>
+      <h2>Types</h2>
       <div className="options-list">
         <ul>
           {options.map((option, index) => (
