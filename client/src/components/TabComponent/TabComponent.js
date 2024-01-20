@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './TabComponent.css';
-import GamesNavBar from '../GamesNavBar/GamesNavBar';
 
 const TabComponent = () => {
   const [activeTab, setActiveTab] = useState('tab1');
@@ -30,8 +29,6 @@ const TabComponent = () => {
         {activeTab === 'tab1' && (
           <div className='tab-content-1'>
             <h2>Game Library</h2>
-            
-            <GamesNavBar />
 
             {Array.from({ length: 500 }).map((_, index) => (
               <div key={index} className='game-container'></div>
