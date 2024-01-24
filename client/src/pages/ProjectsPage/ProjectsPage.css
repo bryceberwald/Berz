@@ -20,3 +20,11 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin-top: 20px;
 }
+
+.projects-container p {
+  font-size: 1em;
+  text-align: center;
+  font-family: monospace;
+  font-variant: small-caps;
+  color: #a7abae;
+}

@@ -14,6 +14,8 @@ export default function ProjectsPage() {
       <div className="top-projects-container">
         <h1>Projects Page</h1>
       </div>
+
+      <p>This page is currently under construction...</p>
       
     </div>
   );
