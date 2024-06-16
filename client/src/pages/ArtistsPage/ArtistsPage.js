@@ -1,21 +1,21 @@
 import * as React from 'react';
 import Navigation from '../../components/Navigation/Navigation';
 import Header from '../../components/Header/Header';
-import './ProjectsPage.css';
+import './ArtistsPage.css';
 
-export default function ProjectsPage() {
+export default function ArtistsPage() {
 
   return (
-    <div className='projects-container'>
+    <div className='Artists-container'>
       <Navigation />
       <Header />
       <br></br>
 
-      <div className="top-projects-container">
-        <h1>Projects Page</h1>
+      <div className="top-Artists-container">
+        <h1>Artists Page</h1>
       </div>
 
-      <p>This page is currently under construction...</p>
+      <h4>This page is currently under construction...</h4>
       
     </div>
   );

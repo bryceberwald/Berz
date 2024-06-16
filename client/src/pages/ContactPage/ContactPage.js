@@ -23,7 +23,7 @@ const ContactPage = () => {
             <br></br>
             <br></br>
             <label>Name: </label>
-            <span className='name-span'>Bryce Berwald / Berz</span><br></br>
+            <span className='name-span'>Berz</span><br></br>
 
             <label>Email: </label>
             <span className='name-span'>&nbsp;support@berz.io</span>

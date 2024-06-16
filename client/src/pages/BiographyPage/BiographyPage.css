@@ -1,10 +1,10 @@
-/* AboutPage.css */
+/* biographyPage.css */
 
-.about-container{
+.biography-container{
     width: 100%;
 }
 
-.top-about-container {
+.top-biography-container {
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
@@ -12,7 +12,7 @@
     margin-top: 20px;
 }
 
-.about-container .top-about-container {
+.biography-container .top-biography-container {
     text-align: center;
     margin-bottom: 20px;
     background-color: rgb(2, 1, 16);
@@ -20,7 +20,7 @@
     box-shadow: 0 0 30px rgba(15, 6, 30, 0.797);
 }
 
-.about-container .top-about-container h1 {
+.biography-container .top-biography-container h1 {
     color: #a7abae;
     font-size: 2em;
     font-family: monospace;
@@ -28,7 +28,7 @@
 
 }
 
-.about-container section {
+.biography-container section {
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
@@ -36,25 +36,25 @@
     margin-top: 20px;
 }
     
-.about-container section h2 {
+.biography-container section h2 {
     color: #308c98;
     font-size: 1.5em;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  padding: 5px;
 }
     
-.about-container section p {
+.biography-container section p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     line-height: 2;
     margin-top: 10px;
     padding: 10px;
 }
     
-.about-container section p::first-letter {
+.biography-container section p::first-letter {
     font-size: 1.25em;
     font-weight: bold;
 }
 
-.about-container .main-content {
+.biography-container .main-content {
     padding: 20px;
     background-color: #394773;
     border-radius: 8px;
@@ -63,7 +63,7 @@
     width: 80%;
     margin: auto;
 }
-.about-container .main-content  section section{
+.biography-container .main-content  section section{
     padding: 20px;
     background-color: #bdc0cf;
     border-radius: 8px;
@@ -73,7 +73,7 @@
     margin-left: 11.125%;
 }
 
-.about-container .main-content h1 {
+.biography-container .main-content h1 {
     color: #333;
     font-size: 1.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -81,21 +81,21 @@
     text-align: center;
 }
 
-.about-container .main-content h2 {
+.biography-container .main-content h2 {
     color: #308c98;
     font-size: 1.5em;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 5px;
 }
 
-.about-container .main-content p {
+.biography-container .main-content p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     line-height: 2;
     margin-top: 10px;
     padding: 10px;
 }
 
-.about-container .main-content p::first-letter {
+.biography-container .main-content p::first-letter {
     font-size: 1.25em;
     font-weight: bold;
 }

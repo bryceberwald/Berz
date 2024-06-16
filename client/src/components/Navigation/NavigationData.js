@@ -6,8 +6,8 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "About",
-    path: "/about",
+    title: "Biography",
+    path: "/biography",
     cName: "navigation-text",
   },
   {
@@ -16,8 +16,8 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "Projects",
-    path: "/projects",
+    title: "Artists",
+    path: "/artists",
     cName: "navigation-text",
   },
 ];
