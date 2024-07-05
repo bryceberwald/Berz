@@ -6,7 +6,7 @@ import './Header.css';
 const Header = () => {  
   return (
     <header className="header-container">
-      <h1>Berz's Music Productions</h1>
+      <h1>Berz's Tech Solutions</h1>
       <br></br>
       <img src="header_logo_2.jpeg" alt="Berz Website Image" />
     </header>

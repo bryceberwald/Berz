@@ -15,9 +15,4 @@ export const NavigationData = [
     path: "/contact",
     cName: "navigation-text",
   },
-  {
-    title: "Artists",
-    path: "/artists",
-    cName: "navigation-text",
-  },
 ];
