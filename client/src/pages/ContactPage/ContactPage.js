@@ -22,11 +22,15 @@ const ContactPage = () => {
             <span>Send an email to me, and I'll get back to you as soon as possible.</span>
             <br></br>
             <br></br>
-            <label>Name: </label>
-            <span className='name-span'>Berz</span><br></br>
+            <label>My Name: </label>
+            <span className='name-span'>Bryce Berwald (Berz)</span><br></br>
 
-            <label>Email: </label>
-            <span className='name-span'>&nbsp;support@berz.io</span>
+            <label>Email Address: </label>
+            <span className='name-span'>&nbsp;developer@berz.io</span><br></br>
+
+
+            <label>Phone Number: </label>
+            <span className='name-span'>&nbsp;949-732-1311</span>
 
             {/* Add your contact form or details here */}
           </section>
