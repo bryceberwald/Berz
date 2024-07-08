@@ -6,8 +6,8 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "Biography",
-    path: "/biography",
+    title: "About",
+    path: "/about",
     cName: "navigation-text",
   },
   {

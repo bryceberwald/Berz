@@ -2,23 +2,23 @@
 import React from 'react';
 import Navigation from '../../components/Navigation/Navigation';
 import Header from '../../components/Header/Header';
-import './BiographyPage.css';
+import './AboutPage.css';
 
-const biographyPage = () => {
+const aboutPage = () => {
   return (
-    <div className="biography-container">
+    <div className="about-container">
         
         <Navigation />
         <Header />
         <br></br>
 
-        <div className='top-biography-container'>
-            <h1>Biography Page</h1>
+        <div className='top-about-container'>
+            <h1>about Page</h1>
         </div>
 
         <div className='main-content'>
           <section>
-              <h2>Berz's Personal Biography</h2>
+              <h2>Personal Introduction</h2>
               <p>1. Past - Growing up in a supportive and loving family, I enjoyed an enriching childhood filled with sports, camaraderie with friends, and an insatiable curiosity about technology. My brother and I spent countless hours playing a computer game that fascinated us both. This game sparked a dream in me at the age of 11: to become one of the staff members who developed and maintained it. Although I was quite young, my ambition drove me to dive into extensive research on game development and programming.
                   During high school, I took a few programming classes that laid the foundation for my technical skills. However, my true passion for programming flourished as I pursued higher education and began to teach myself. I immersed myself in various programming languages, tools, and technologies, driven by the same curiosity that had inspired me as a child.</p>              
               <p>2. Present - Today, I am a dedicated and skilled programmer with a robust understanding of software development. My journey from a curious child to a proficient developer has been marked by continuous learning and perseverance. I have honed my skills through college coursework, self-study, and hands-on projects, always striving to push the boundaries of my knowledge.
@@ -35,4 +35,4 @@ const biographyPage = () => {
   );
 };
  
-export default biographyPage;
+export default aboutPage;
