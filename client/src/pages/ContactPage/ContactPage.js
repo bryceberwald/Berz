@@ -25,7 +25,7 @@ const ContactPage = () => {
             <label>Owner/CEO : </label><br></br>
             <span className='name-span'>Bryce Berwald</span><br></br><br></br>
 
-            <label>The Company Owner's Email &nbsp;: </label><br></br>
+            <label>Personal Email &nbsp;: </label><br></br>
             <span className='name-span'>&nbsp;bryce.berwald@berz.io</span><br></br><br></br>
 
             <label>Our Support Staff &nbsp;: </label><br></br>

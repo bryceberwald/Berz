@@ -18,11 +18,8 @@ const MarketingServices = () => {
         
         <div className='main-content'>
           <section>
-            <h2>Our Marketing Services</h2>
-            <span>Our marketing services are designed to help you reach your target audience and drive traffic to your website. We offer a variety of marketing options to suit your needs, including display marketing, social media marketing, and search engine marketing. Our team of experts will work with you to create a customized marketing strategy that will help you achieve your business goals.</span>
-
-            <br></br><br></br>
-            <h3>This page is currently under construction...</h3>
+            <h2>Our Services</h2>
+            <h2>This page is currently under construction...</h2>
        
             {/* Add your marketing form or details here */}
           </section>

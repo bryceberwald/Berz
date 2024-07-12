@@ -20,9 +20,8 @@ const GraphicDesignServices = () => {
         
         <div className='main-content'>
           <section>
-            <h2>Our Graphic Design Services</h2>
-            <br></br>
-            <h3>This page is currently under construction...</h3>
+            <h2>Our Services</h2>
+            <h2>This page is currently under construction...</h2>
        
             {/* Add your graphic-design form or details here */}
           </section>

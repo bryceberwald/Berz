@@ -20,9 +20,8 @@ const DigitalArtworkServices = () => {
         
         <div className='main-content'>
           <section>
-            <h2>Our Digital Artwork and/or NFT Services</h2>
-            <br></br>
-            <h3>This page is currently under construction...</h3>
+            <h2>Our Services</h2>
+            <h2>This page is currently under construction...</h2>
        
             {/* Add your digital-artwork form or details here */}
           </section>
