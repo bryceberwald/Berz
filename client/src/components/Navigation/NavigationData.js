@@ -32,12 +32,12 @@ export const NavigationData = [
   },
   {
     title: "Graphic Design Service's",
-    path: "/services/graphic-design",
+    path: "/services/artwork/graphic-design",
     cName: "navigation-text",
   },
   {
     title: "Digital Artwork Service's",
-    path: "/services/digital-artwork",
+    path: "/services/artwork/digital-artwork",
     cName: "navigation-text",
   },
   {
