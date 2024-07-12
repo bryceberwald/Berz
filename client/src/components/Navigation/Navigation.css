@@ -32,20 +32,24 @@
 .navigation-menu.active {
   left: 0;
   transition: 450ms;
+  
 }
 
+/* Navigation Menu Items - edit css for clean UI */
 .navigation-text {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding: 8px 0px 8px 16px;
+  padding: 0px 0px 0px 0px;
   list-style: none;
-  height: 60px;
+  height: 40px;
+  font-family: fantasy;
+  background-color: #ffffff;
 }
 
 .navigation-text a {
   text-decoration: none;
-  color: #151414;
+  color: #3c3c5a;
   font-size: 18px;
   width: 95%;
   height: 100%;
@@ -56,7 +60,7 @@
 }
 
 .navigation-text a:hover {
-  background-color: #000000;
+  background-color: #3a3558;
   color: #fff;
 }
   
