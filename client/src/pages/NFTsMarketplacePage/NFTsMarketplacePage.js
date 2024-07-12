@@ -11,7 +11,7 @@ const MarketplacePage = () => {
         <Header />
         
         <div className='top-marketplace-container'>
-            <h1>Berz's Marketplace Center</h1>
+            <h1>Marketplace Exchange</h1>
         </div>
     </div>
   );

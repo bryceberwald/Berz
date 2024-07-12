@@ -56,7 +56,7 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "Berz's Marketplace",
+    title: "Marketplace Exchange",
     path: "/marketplace",
     cName: "navigation-text",
   },
