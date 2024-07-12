@@ -16,6 +16,11 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
+    title: "Community Center",
+    path: "/community",
+    cName: "navigation-text",
+  },
+  {
     title: "Tech-related Service's",
     path: "/services/technology",
     cName: "navigation-text",
@@ -38,6 +43,11 @@ export const NavigationData = [
   {
     title: "Digital Artwork Service's",
     path: "/services/artwork/digital-artwork",
+    cName: "navigation-text",
+  },
+  {
+    title: "Additional Service's",
+    path: "/services/additional-services",
     cName: "navigation-text",
   },
   {
