@@ -13,7 +13,7 @@ const ContactPage = () => {
         <br></br>
 
         <div className="top-contact-container">
-            <h1>Contact Page</h1>
+            <h1>Contact</h1>
         </div>
         
         <div className='main-content'>
@@ -35,7 +35,7 @@ const ContactPage = () => {
             <span className='name-span'>&nbsp;developer@berz.io</span><br></br><br></br>
 
             <label>Company Phone Number : </label><br></br>
-            <span className='name-span'>&nbsp;+1 (xxx) xxx-xxxx - Currently not available...</span><br></br><br></br>
+            <span className='name-span'>&nbsp;+1 (xxx) xxx-xxxx</span><br></br><br></br>
 
             {/* Add your contact form or details here */}
           </section>

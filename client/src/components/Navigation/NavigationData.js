@@ -42,7 +42,22 @@ export const NavigationData = [
   },
   {
     title: "Tangible & non-Tangible Solution's",
-    path: "/services/asset-creations",
+    path: "/solutions",
     cName: "navigation-text",
   },
+  {
+    title: "Berz's Marketplace",
+    path: "/marketplace",
+    cName: "navigation-text",
+  },
+  {
+    title: "My Account",
+    path: "/account",
+    cName: "navigation-text",
+    },
+  // {
+  // title: "My Wallet & NFT's",
+  // path: "/investment-holdings",
+  // cName: "navigation-text",
+  // },
 ];

@@ -7,7 +7,9 @@ import AdvertisingServices from './pages/ServicesPages/AdvertisingServices/Adver
 import MarketingServices from './pages/ServicesPages/MarketingServices/MarketingServices';
 import GraphicDesignServices from './pages/ServicesPages/ArtworkServices/GraphicDesignServices/GraphicDesignServices';
 import DigitalArtworkServices from './pages/ServicesPages/ArtworkServices/DigitalArtworkServices/DigitalArtworkServices';
-
+import SolutionPages from './pages/SolutionsPages/SolutionsPage';
+import NFTsMarketplacePage from './pages/NFTsMarketplacePage/NFTsMarketplacePage';
+import Account from './pages/AccountPage/Account';
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
@@ -23,6 +25,9 @@ function AppRouter() {
         <Route path="/services/marketing" element={<MarketingServices />} />
         <Route path="/services/artwork/graphic-design" element={<GraphicDesignServices />} />
         <Route path="/services/artwork/digital-artwork" element={<DigitalArtworkServices />} />
+        <Route path="/solutions" element={<SolutionPages />} />
+        <Route path="/marketplace" element={<NFTsMarketplacePage />} />
+        <Route path="/account" element={<Account />} />
         {/* Add more routes as needed */}
         {/* <Route path="/about" element={<ComponentName />} /> */}
       </Routes>

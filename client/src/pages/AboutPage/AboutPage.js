@@ -13,7 +13,7 @@ const aboutPage = () => {
         <br></br>
 
         <div className='top-about-container'>
-            <h1>About Page</h1>
+            <h1>About</h1>
         </div>
 
         <div className='main-content'>

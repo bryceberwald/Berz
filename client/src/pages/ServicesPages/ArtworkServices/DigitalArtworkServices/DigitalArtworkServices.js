@@ -15,7 +15,7 @@ const DigitalArtworkServices = () => {
         <br></br>
 
         <div className="top-digital-artwork-container">
-            <h1>Digital Artwork Services</h1>
+            <h1>Digital Artwork</h1>
         </div>
         
         <div className='main-content'>

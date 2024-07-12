@@ -15,7 +15,7 @@ const GraphicDesignServices = () => {
         <br></br>
 
         <div className="top-graphic-design-container">
-            <h1>Graphic Design Services</h1>
+            <h1>Graphic Design</h1>
         </div>
         
         <div className='main-content'>

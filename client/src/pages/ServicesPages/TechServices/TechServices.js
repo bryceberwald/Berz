@@ -13,7 +13,7 @@ const TechServices = () => {
         <br></br>
 
         <div className="top-tech-container">
-            <h1>Technology Services</h1>
+            <h1>Technology</h1>
         </div>
         
         <div className='main-content'>

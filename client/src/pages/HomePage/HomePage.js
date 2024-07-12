@@ -12,7 +12,7 @@ const HomePage = () => {
         <br></br>
         
         <div className='top-home-container'>
-            <h1>Home Page</h1>
+            <h1>Home</h1>
         </div>
 
       <div className='main-content'>

@@ -13,7 +13,7 @@ const MarketingServices = () => {
         <br></br>
 
         <div className="top-marketing-container">
-            <h1>Marketing Services</h1>
+            <h1>Marketing Support</h1>
         </div>
         
         <div className='main-content'>

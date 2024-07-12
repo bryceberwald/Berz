@@ -13,7 +13,7 @@ const AdvertisingServices = () => {
         <br></br>
 
         <div className="top-ads-container">
-            <h1>Advertising Services</h1>
+            <h1>Advertisement Support</h1>
         </div>
         
         <div className='main-content'>
