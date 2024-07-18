@@ -4,6 +4,7 @@ import './CreateNFT.css';
 function CreateNFT() {
   return (
     <div>Create NFTs</div>
+    
   );
 };
 
