@@ -20,7 +20,7 @@ const MarketplacePage = () => {
 
             <p className='page-detail-paragraph'><i>Buy</i>, <i>Sell</i>, <i>Exchange</i><b> NFTs</b> <i> Buy/Sell</i> the new development <b><i>Berzen</i></b> cryptocurrency</p>
             <br />
-            <span><b> -> This page is currently under construction...</b></span>
+            <span><b>This page is currently under construction...</b></span>
        
             {/* Add your ads form or details here */}
           </section>
