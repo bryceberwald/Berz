@@ -1,10 +1,10 @@
-# Berz-Website [
+# Berz's Website [
 <!-- spell-checker:ignore Berwald Berz Berzen inclusivity gamification -->
 >Company's Name: Berz's Tech Solutions
 \
->Contact Email: [support@berz.io](mailto:support@berz.io)
+>Founder's Name: Bryce Berwald
 \
->Founder's Name: Bryce Berwald aka Berz
+>Contact Email: [support@berz.io](mailto:support@berz.io)
 \
 >Discord Server: [Join our Discord server](https://discord.gg/ya3pYmQUN4)
 \
@@ -42,7 +42,7 @@
 \
 >content here...
 \
->content here...)
+>content here...
 \
 >content here...
 \
