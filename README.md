@@ -1,4 +1,4 @@
-# Berz's Website [
+# Berz's Website -
 <!-- spell-checker:ignore Berwald Berz Berzen inclusivity gamification -->
 >Company's Name: Berz's Tech Solutions
 \
@@ -10,15 +10,13 @@
 \
 >Official Website: [Berzen's Official Platform](https://www.berz.io/)
 \
-]
 
-## Project Objectives [
+## Project Objectives -
 
 >General Information
 \
-]
 
-### General Information [
+### General Information -
 
 > Our ambitious project centers on the development of Berzen, a cutting-edge cryptocurrency and blockchain ecosystem designed specifically to power a dedicated marketplace for NFTs (Non-Fungible Tokens). Unlike existing platforms, Berzen offers a seamless user experience with integrated web software that empowers creators to generate personalized NFTs effortlessly. These tokens can then be seamlessly uploaded to our marketplace's expansive library, where they are exclusively traded using Berzen. The significance of this approach lies in its potential to democratize the NFT ecosystem. By allowing creators of all backgrounds to easily inclusively outstanding NFTs, Berzen fosters inclusivity and accessibility in digital ownership and expression. Moreover, the algorithmic attribute assignment adds an  element of the multiplayer game and varying values of differentiation, making the marketplace not just a platform for transactions but also a dynamic arena for artistic and investment opportunities.
 \
@@ -34,9 +32,8 @@
 \
 > In conclusion, Berzen represents more than just a cryptocurrency and blockchain initiative; it represents a paradigm shift in how we perceive and interact with digital assets. By embracing innovation, transparency, and inclusivity, Berzen aims to empower creators, democratize digital ownership, and redefine the future of the NFT marketplace. Join us in shaping this transformation of a journey towards a more equitable and vibrant digital economy.
 \
-]
 
-### Development Organization & Structuring [
+### Development Organization & Structuring -
 
 >content here...
 \
@@ -58,6 +55,5 @@
 \
 >content here...
 \
-]
 
 ***To be completed...***
