@@ -93,76 +93,81 @@
 > content here #2...
 \
 > content here #3...
-\
+>
 > content here #4...
-\
+>
 >__________________________________________
-
+>
 #### Required resource usage and estimated cost for development -
-
+>
 > Number of Resources Needing to be used...
-\
+>
 > Total amount of API's needing to be used and integrated into the project. Also, the total cost associated with the API's, so I can use them without being limited on the number of calls  allowed to be made to my endpoints.
-\
+>
 > Digital Art
-\
+>
 > Graphic Design
-\
+>
 > tech subscriptions
-\
+>
 > External Libraries -
-\
+>
 > __________________________________________
-\
-
+>
+>
 ***More Things will be documented being added to this file as the development for this project continues...***
-
+>
 ## Example for adding a simple section containing content -
-
+>
 > Below is the example for a very easy way to have different sections easily to hold similar topics of 'x' amount organized into a contained category thats typically based on the type/subject which varies. So having a section with a collection of the ultimate same relationship like a game is a game, or a book is a book but also a movie is a movie. With that being said you could use the concept using abstraction to help broaden the scope of things that fit under a single category or topic, etc.
-\
-\
+>
+>
 > Also, there's a bunch of resources that can be found on google for learning how to use/code in the markdown language.
 >__________________________________________
-
+>
 ### Header Title -
-
+>
 > content here #1...
-\
+>
 > content here #2...
-\
+>
 > content here #3...
-\
+>
 > content here #4...
-\
+>
 > content here #5...
-\
+>
 > content here #6...
-\
+>
 > content here #7...
-\
+>
 > content here #8...
 >__________________________________________
-\
-\
-\
-\
-\
+>
+>
+>
 ***THANK YOU FOR ANYONE SUPPORTING THIS PROJECT. THE CONCEPT OF THIS PROJECT HAS BEEN THOUGHT OF AND DEVELOPED ALREADY BY A FEW TECH COMPANIES BUT THE UNIQUE CHARACTERISTICS MAKING A CRYPTOCURRENCY OR NFT VALUABLE IS THOUGH HAVING A CREATIVE BLUEPRINT FOR THE VARIOUS THINGS THAT NEEDS WAYS THAT WILL CREATE A POPULARITY FOR ITS USAGE.***
-\
-\
-\
-\
+>
+>
 **Sincerely appreciated,**
-\
-\
-\
+>
 **The sole developer: Bryce Berwald aka Berz which is my nickname.**
-
 >__________________________________________
-
+>
 ## End of the Markdown File Documentation
-
+>
 >__________________________________________
-
+>
 >***More can be added as needed...***
+>
+>The newly innovative cryptocurrency being developed named ***Berzen*** using its own block chain and NFT creator. Our own marketplace for exchanges in the marketplace for digital assets.
+>A strategic plan is being engineered currently to have an algorithmic solution for how the crypto ***Berzen*** to be worth a value that retains it's value with the ability to increase and/or decrease in value depending on certain variables and tactics within the algorithm(s).
+>
+>
+>Website: [Berz's Digital Asset Platform](https://www.berz.io/)
+>Company: Berz's Tech Solutions
+>Founder: Bryce Berwald
+>Contact Founder: [support@berz.io](mailto:bryce.berwald@berz.io)
+>
+> ***To be added upon as needed...***
+>
