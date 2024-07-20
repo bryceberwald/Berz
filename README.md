@@ -1,9 +1,8 @@
 <!-- spell-checker:ignore Berwald Berz Berzen inclusivity gamification -->
 # Berz's Website -
 
-__________________________________________
+> __________________________________________
 \
-
 >Company's Name: Berz's Tech Solutions
 \
 >Founder's Name: Bryce Berwald
@@ -14,12 +13,9 @@ __________________________________________
 \
 >Official Website: [Berzen's Cryptocurrency Official Platform](https://www.berz.io/)
 \
-__________________________________________
-\
+> __________________________________________
 
 ## Project Objectives -
-
-\
 
 1. General Information of the project
 2. Development organization & structuring for the project
@@ -30,13 +26,9 @@ __________________________________________
 7. Example for adding a simple section containing content
 8. End of the Markdown File Documentation
 
-\
-__________________________________________
-\
+> __________________________________________
 
 ### General Information of the project -
-
-\
 
 > Our ambitious project centers on the development of Berzen, a cutting-edge cryptocurrency and blockchain ecosystem designed specifically to power a dedicated marketplace for NFTs (Non-Fungible Tokens). Unlike existing platforms, Berzen offers a seamless user experience with integrated web software that empowers creators to generate personalized NFTs effortlessly. These tokens can then be seamlessly uploaded to our marketplace's expansive library, where they are exclusively traded using Berzen. The significance of this approach lies in its potential to democratize the NFT ecosystem. By allowing creators of all backgrounds to easily inclusively outstanding NFTs, Berzen fosters inclusivity and accessibility in digital ownership and expression. Moreover, the algorithmic attribute assignment adds an  element of the multiplayer game and varying values of differentiation, making the marketplace not just a platform for transactions but also a dynamic arena for artistic and investment opportunities.
 \
@@ -57,55 +49,45 @@ __________________________________________
 \
 \
 > In conclusion, Berzen represents more than just a cryptocurrency and blockchain initiative; it represents a paradigm shift in how we perceive and interact with digital assets. By embracing innovation, transparency, and inclusivity, Berzen aims to empower creators, democratize digital ownership, and redefine the future of the NFT marketplace. Join us in shaping this transformation of a journey towards a more equitable and vibrant digital economy.
-
 \
->__________________________________________
-\
+> __________________________________________
 
 ### Development organization & structuring for the project -
 
+> content here...
 \
+> content here...
+\
+> content here...
+\
+> content here...
+\
+> content here...
+\
+> content here...
+\
+> content here...
+\
+> content here...
+\
+> content here...
+\
+> content here...
+\
+> _________________________________________
 
-> content here...
-\
-> content here...
-\
-> content here...
-\
-> content here...
-\
-> content here...
-\
-> content here...
-\
-> content here...
-\
-> content here...
-\
-> content here...
-\
-> content here...
-
-\
-__________________________________________
-\
-
-### Project - Berz Marketplace (NFTs/Berzen marketplace platform for cryptocurrency and NFT exchanges) -
-
+### Project Overview - Berz Marketplace (NFTs/Berzen marketplace platform for cryptocurrency and NFT exchanges) -
 > Notes for the development of my online asset creation/trading/wagering/using my cryptocurrency own my own block chain allowing users to buy /sell/Create NFTs, etc.
+\
 \
 > Will eventually have the cryptocurrency/NFTs integrated into a MMORPG and a typical Casino based game for my users to use my cryptocurrency with NFTs in the mix for future creativity to be added easily into the project expanding what the platform ultimately provides with a multitude of options.
 \
+\
 > Developed using NodeJS, ReactJS framework and other node packages needed for the implementing a cryptocurrency following the protocols for security and safeguarding the blockchain infrastructure created from scratch to have cryptocurrencies used on my blockchain as a marketplace and utilizing my own cryptocurrency 'Berzen' (BRZN) with options to be used on my platform.
-
-\
 > __________________________________________
-\
 
 #### Brief description of the project -
 
-\
-
 > content here #1...
 \
 > content here #2...
@@ -113,15 +95,10 @@ __________________________________________
 > content here #3...
 \
 > content here #4...
-
-\
-__________________________________________
-\
+> __________________________________________
 
 #### Next steps towards the development of the project -
 
-\
-
 > content here #1...
 \
 > content here #2...
@@ -129,14 +106,10 @@ __________________________________________
 > content here #3...
 \
 > content here #4...
-
 \
-> __________________________________________
-\
+>__________________________________________
 
 #### Required resource usage and estimated cost for development -
-
-\
 
 > Number of Resources Needing to be used...
 \
@@ -149,29 +122,21 @@ __________________________________________
 > tech subscriptions
 \
 > External Libraries -
+\
+> __________________________________________
+\
 
-\
-__________________________________________
-\
-\
 ***More Things will be documented being added to this file as the development for this project continues...***
-\
 
 ## Example for adding a simple section containing content -
 
-\
 > Below is the example for a very easy way to have different sections easily to hold similar topics of 'x' amount organized into a contained category thats typically based on the type/subject which varies. So having a section with a collection of the ultimate same relationship like a game is a game, or a book is a book but also a movie is a movie. With that being said you could use the concept using abstraction to help broaden the scope of things that fit under a single category or topic, etc.
 \
 \
 > Also, there's a bunch of resources that can be found on google for learning how to use/code in the markdown language.
-
-\
-__________________________________________
-\
+>__________________________________________
 
 ### Header Title -
-
-\
 
 > content here #1...
 \
@@ -188,8 +153,7 @@ __________________________________________
 > content here #7...
 \
 > content here #8...
-\
-__________________________________________
+>__________________________________________
 \
 \
 \
@@ -205,15 +169,12 @@ __________________________________________
 \
 \
 **The sole developer: Bryce Berwald aka Berz which is my nickname.**
-\
-\
-__________________________________________
-\
+
+>__________________________________________
 
 ## End of the Markdown File Documentation
 
-\
-__________________________________________
-\
+>__________________________________________
 
+\
 ***More can be added as needed...***
