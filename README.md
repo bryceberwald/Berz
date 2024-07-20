@@ -74,9 +74,10 @@
 \
 > content here...
 \
-> _________________________________________
 
-### Project Overview - Berz Marketplace (NFTs/Berzen marketplace platform for cryptocurrency and NFT exchanges) -
+```markdown
+
+```markdown
 > Notes for the development of my online asset creation/trading/wagering/using my cryptocurrency own my own block chain allowing users to buy /sell/Create NFTs, etc.
 \
 \
@@ -176,5 +177,4 @@
 
 >__________________________________________
 
-\
-***More can be added as needed...***
+>***More can be added as needed...***
