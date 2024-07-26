@@ -1,20 +1,20 @@
 import React from 'react';
 import Header from '../../components/Header/Header';
 import Navigation from '../../components/Navigation/Navigation';
-import './Account.css';
+import './Marketplace.css';
 
-const AccountPage = () => {
+const Marketplace = () => {
   return (
-    <div className="account-container">
+    <div className="marketplace-container">
 
         <Navigation />
         <Header />
         
-        <div className='top-account-container'>
-            <h1>My Account & Wallet</h1>
+        <div className='top-marketplace-container'>
+            <h1>Marketplace Exchange</h1>
         </div>
     </div>
   );
 };
 
-export default AccountPage;
+export default Marketplace;

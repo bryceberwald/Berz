@@ -13,7 +13,7 @@ const ContactPage = () => {
         <br></br>
 
         <div className="top-contact-container">
-            <h1>Contact</h1>
+            <h1>Contact Support Staff</h1>
         </div>
         
         <div className='main-content'>

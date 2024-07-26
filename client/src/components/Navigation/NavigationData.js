@@ -6,12 +6,12 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "About Us",
+    title: "About",
     path: "/about",
     cName: "navigation-text",
   },
   {
-    title: "Our Support Staff",
+    title: "Support Staff",
     path: "/contact",
     cName: "navigation-text",
   },
@@ -21,47 +21,12 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "Tech-related Service's",
-    path: "/services/technology",
-    cName: "navigation-text",
-  },
-  {
-    title: "Advertising Service's",
-    path: "/services/advertising",
-    cName: "navigation-text",
-  },
-  {
-    title: "Marketing Service's",
-    path: "/services/marketing",
-    cName: "navigation-text",
-  },
-  {
-    title: "Graphic Design Service's",
-    path: "/services/artwork/graphic-design",
-    cName: "navigation-text",
-  },
-  {
-    title: "Digital Artwork Service's",
-    path: "/services/artwork/digital-artwork",
-    cName: "navigation-text",
-  },
-  {
-    title: "Additional Service's",
-    path: "/services/additional-services",
-    cName: "navigation-text",
-  },
-  {
-    title: "Tangible & non-Tangible Solution's",
-    path: "/solutions",
-    cName: "navigation-text",
-  },
-  {
     title: "Marketplace Exchange",
     path: "/marketplace",
     cName: "navigation-text",
   },
   {
-    title: "My Account",
+    title: "My Account & Wallet",
     path: "/account",
     cName: "navigation-text",
     },
