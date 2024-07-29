@@ -21,10 +21,10 @@
 
 ## NFTs Created & Published
 >
-> Information on how to create NFTs on the Berzen Web Platform
+> Information on how to create NFTs on the Berzen Web Platform.
 >
 > 
-> Information on how to publish NFTs on the Berzen Web Platform
+> Information on how to publish NFTs on the Berzen Web Platform.
 > 
 
 ## Currency Conversions
@@ -32,7 +32,7 @@
 > The Berzen cryptocurrency converted to other cryptocurrencies able to be withdrawn from your Berzen Wallet.
 >
 >
-> Cryptocurrencies converted to Berzen to be deposited in your Berzen Wallet
+> Cryptocurrencies converted to Berzen to be deposited in your Berzen Wallet.
 >
 >
 > Berzen cryptocurrency converted to other international currencies able to be withdrawn from your Berzen Wallet.
