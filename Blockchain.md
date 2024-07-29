@@ -1,17 +1,17 @@
-# Creating a Blockchain Marketplace Exchange from Scratch -
+# Create a Blockchain Marketplace Exchange from Scratch
 
-## -> Blockchain Development Introduction-
+## Blockchain Development Introduction
 
  > The Blockchain Marketplace Exchange is a revolutionary platform designed to facilitate the seamless integration and trading of digital
  > assets. Built from the ground up, this exchange offers users a sophisticated and efficient environment for managing their digital
  > assets with ease. The platform includes a robust currency conversion tool that enables quick and effortless withdrawal of assets into a
  > usable form on various other marketplaces.
 
-### Summarization -
+### Summary
 
 Creating a Blockchain Marketplace Exchange built from scratch to have a place for Integrated for Digital Assets with a easy & fast currency conversion tool to withdraw your assets back into a asset able to be used on another marketplace.
 
-### Varying Capabilities -
+### Capabilities
 
 > Fluctuating capabilities to have digital assets obtaining valued worth that causes it to increase/decrease dependent on variables
 > \
@@ -29,7 +29,7 @@ Creating a Blockchain Marketplace Exchange built from scratch to have a place fo
 > \
 > process.
 
-## -> Key Features -
+## Key Features
 
 Blockchain Integration
 
@@ -59,7 +59,7 @@ Blockchain Integration
 > \
 > compliant trading environment.
 
-### -> Backend: NodeJS -
+### Backend: NodeJS
 
 ***Step 1: Set up the NodeJS environment***
 
@@ -283,7 +283,7 @@ export default App;
 
 - Open your browser and navigate to `http://localhost:3000`
 
-### Notes -
+### Notes
 
 This example demonstrates a basic blockchain and a simple marketplace interface. In a real-world application, you would need to implement more complex features such as user authentication, a robust consensus mechanism, handling of NFTs, and ensuring compliance with regulations like KYC and GDPR. Additionally, security measures should be implemented to protect user data and transactions.
 
