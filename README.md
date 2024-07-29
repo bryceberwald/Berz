@@ -1,5 +1,6 @@
 # Berzen Digital Assets
-*****Founder:** *Bryce Berwald****
+*****Founder  :** *Bryce Berwald****
+*****Nickname: ** *Berz****
 
 ## Berzern's Marketplace Overview
 >
