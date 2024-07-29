@@ -1,21 +1,21 @@
 # Berzen Digital Assets - (Project Founded & Created by: Bryce Berwald aka Berz)
 
-## Marketplace Exchange
+## Berzern's Marketplace Overview
 >
 > Needs to be completed...
 > 
 
-## About Berzen Cryptocurency
+## About Berzen Digital Assets
 >
 > Needs to be completed...
 > 
 
-## Berzen Wallet Capabilities
+## Berzen Wallet Information
 >
 > Needs to be completed...
 > 
 
-## NFTs Created & Published on Berzen
+## NFTs Created & Published
 >
 > Information on how to create NFTs on the Berzen Web Platform
 >
@@ -23,7 +23,7 @@
 > Information on how to publish NFTs on the Berzen Web Platform
 > 
 
-## Currency Conversions Overview
+## Currency Conversions
 >
 > The Berzen cryptocurrency converted to other cryptocurrencies able to be withdrawn from your Berzen Wallet.
 >
