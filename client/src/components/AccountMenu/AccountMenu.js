@@ -133,14 +133,12 @@ export default function CustomizedList() {
               </Tooltip>
             </ListItem>
             
-            
             <Box
               sx={{
                 bgcolor: open ? 'rgba(71, 98, 130, 0.2)' : null,
                 pb: open ? 2 : 0,
               }}
             >
-
 
               <ListItemButton
                 alignItems="flex-start"
@@ -153,7 +151,6 @@ export default function CustomizedList() {
                 }}
               >
 
-
                 <ListItemText
                   secondary="Dashboard"
                   secondaryTypographyProps={{
@@ -164,8 +161,6 @@ export default function CustomizedList() {
                   }}
                 />
 
-
-
                 <KeyboardArrowDown
                   sx={{
                     mr: -1,
@@ -175,11 +170,7 @@ export default function CustomizedList() {
                   }}
                 />
 
-
               </ListItemButton>
-
-
-
 
               {open &&
                 data.map((item) => (
@@ -204,7 +195,6 @@ export default function CustomizedList() {
                 />
             </Box>
           </FireNav>
-
 
             {/* --------------------------------------------------- */}
             {/* --------------------------------------------------- */}
@@ -240,7 +230,6 @@ export default function CustomizedList() {
                 </Box>
             </FireNav>
         </Paper>
-
 
         {/* --------------------------------------------------- */}
         {/* --------------------------------------------------- */}
