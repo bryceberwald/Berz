@@ -17,22 +17,22 @@ const HomePage = () => {
 
       <div className='main-content'>
         <section>
-          <h2>General Overview</h2>
+          <h2>Topic #1</h2>
           <p>
             content goes here...
           </p>
         </section>
 
         <section>
-          <h2>Additional Information</h2>
+          <h2>Topic #2</h2>
           <p>
-            content goes here...    
+            content goes here...
           </p>
         </section>
         <section>
-          <h2>Our Mission</h2>
+          <h2>Topic #3</h2>
           <p>
-            content goes here...    
+            content goes here...
           </p>        
         </section>
       </div>
