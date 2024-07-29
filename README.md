@@ -1,4 +1,5 @@
-# Berzen Digital Assets - (Project Founded & Created by: Bryce Berwald aka Berz)
+# Berzen Digital Assets
+*****Founder:** *Bryce Berwald****
 
 ## Berzern's Marketplace Overview
 >
