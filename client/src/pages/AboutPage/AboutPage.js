@@ -13,32 +13,32 @@ const aboutPage = () => {
         <br></br>
 
         <div className='top-about-container'>
-            <h1>About Digital Assets</h1>
+            <h1>Digital Assets</h1>
         </div>
 
         <div className='main-content'>
           <section>
-              <h2>Information about Digital Assets - </h2>
+              <h2>Topic #1</h2>
               <p>content goes here...</p>
           </section>
 
           <section>
-              <h2>Purpose for Digital Assets - </h2>
+              <h2>Topic #2</h2>
               <p>content goes here...</p>
           </section>
 
           <section>
-              <h2>What makes a digital asset worth a certain value ?</h2>
+              <h2>Topic #3</h2>
               <p>content goes here...</p>
           </section>          
           
           <section>
-              <h2>Another Section (goes here...)</h2>
+              <h2>Topic #4</h2>
               <p>content goes here...</p>
           </section>
           <br></br>
-          <br></br>
           <h1>Company's Geographic Location - Orange County, CA</h1>
+          <br></br>
           <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d46292.26475895748!2d-117.9966637387506!3d33.76986970582969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1720294815137!5m2!1sen!2sus" width="100%" height="750px"></iframe>
         </div>
     </div>

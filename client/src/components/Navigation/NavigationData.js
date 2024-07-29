@@ -11,28 +11,21 @@ export const NavigationData = [
     cName: "navigation-text",
   },
   {
-    title: "Support Staff",
+    title: "Contact",
     path: "/contact",
     cName: "navigation-text",
   },
   {
-    title: "Community Center",
+    title: "Community",
     path: "/community",
     cName: "navigation-text",
   },
-  {
-    title: "Marketplace Exchange",
-    path: "/marketplace",
-    cName: "navigation-text",
-  },
-  {
-    title: "My Account & Wallet",
-    path: "/account",
-    cName: "navigation-text",
-    },
+
+  // Example of a new navigation link:
   // {
-  // title: "My Wallet & NFT's",
-  // path: "/investment-holdings",
+  // title: "Marketplace,
+  // path: "/marketplace",
   // cName: "navigation-text",
   // },
+  
 ];
