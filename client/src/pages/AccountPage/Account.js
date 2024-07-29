@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../../components/Header/Header';
 import Navigation from '../../components/Navigation/Navigation';
+import AccountMenu from '../../components/AccountMenu/AccountMenu';
 import './Account.css';
 
 const AccountPage = () => {
@@ -11,8 +12,9 @@ const AccountPage = () => {
         <Header />
         
         <div className='top-account-container'>
-            <h1>My Account & Wallet</h1>
+            <h1>My Account</h1>
         </div>
+        <AccountMenu />
     </div>
   );
 };
