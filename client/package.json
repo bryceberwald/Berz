@@ -1,5 +1,5 @@
 {
-  "name": "berzen-client",
+  "name": "client",
   "version": "0.0.1",
   "description": "Introducing a comprehensive platform dedicated to the creation, publication, purchase, sale, and exchange of Berzen (BRZN) NFTs. Our marketplace offers a seamless and professional environment for artists, collectors, and enthusiasts to engage in the dynamic world of digital assets. Whether you're looking to showcase your creative work, acquire unique pieces, or trade with fellow NFT enthusiasts, our platform provides all the tools and features needed to facilitate a vibrant and secure marketplace for Berzen NFTs.",
   "private": true,
@@ -17,7 +17,7 @@
     "react-dom": "^18.3.1",
     "react-icons": "^4.12.0",
     "react-router-dom": "^6.21.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
