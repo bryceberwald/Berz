@@ -33,4 +33,3 @@
 > International Currencies converted to Berzen to add the cryptocurrency to your Berzen Wallet.
 
 ***Needs to be completed...***
-
